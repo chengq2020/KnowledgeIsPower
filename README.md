@@ -1,2 +1,2 @@
 # KnowledgeIsPower
-All Books I've found useful for academia and/or career.
+All references I've found useful for academia and/or career.
